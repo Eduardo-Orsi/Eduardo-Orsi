@@ -1,7 +1,6 @@
 # Hi 👋, I'm Eduardo Orsi!
 ### Love to use tech to solve real world problems!
 
-
 - 👨🏻‍💻 I’m currently working as a Software Developer at [EDNA.CENTER](https://edna.center/), a brazilian lawtech company
 - 💻 My main focus is Python WEB with Django and Flask
 - 💡 Currently I’m having a lot of fun doing webscrapping projects
@@ -9,6 +8,8 @@
 - 📫 How to reach me: duduayr@gmail.com
 - 🇧🇷 Brazilian
 - 🏝️ Balneário Camboriú - Santa Catarina - Brazil
+
+## 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
