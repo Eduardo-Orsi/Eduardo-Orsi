@@ -26,6 +26,7 @@
 <a href="https://twitter.com/du_orsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="du_orsi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eduardo-orsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-orsi" height="30" width="40" /></a>
 <a href="https://instagram.com/du_ori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="du_ori" height="30" width="40" /></a>
+<a href="https://discord.gg/#6902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6902" height="30" width="40" /></a>
 </p>
 
 ##
