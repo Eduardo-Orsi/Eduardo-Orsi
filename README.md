@@ -7,7 +7,6 @@
 - 📚 Computer Science studant
 - 📫 How to reach me: duduayr@gmail.com
 - 🇧🇷 Brazilian
-- 🏝️ Balneário Camboriú - Santa Catarina - Brazil
 
 ## 
 
