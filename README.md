@@ -7,6 +7,7 @@
 - 📚 Computer Science studant
 - 📫 How to reach me: duduayr@gmail.com
 - 🇧🇷 Brazilian
+- 🗣️ Portuguese and english
 
 ## 
 
