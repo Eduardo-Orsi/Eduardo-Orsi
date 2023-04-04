@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m currently working as a Software Developer at [EDNA.CENTER](https://edna.center/), a brazilian lawtech company
 - 💻 My main focus is Python WEB with Django and Flask
 - 💡 Currently I’m having a lot of fun doing webscrapping projects
-- 📚 Computer Science student
+- 📚 Computer Science student at [UNIVALI](https://www.univali.br/)
 - 📫 How to reach me: duduayr@gmail.com
 - 🇧🇷 Brazilian
 - 🗣️ Portuguese and english
