@@ -13,7 +13,6 @@
 ## 
 
 ### Conect with me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/eduardo-orsi)](https://github.com/eduardo-orsi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-orsi/)](https://www.linkedin.com/in/eduardo-orsi/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/du_orsi)](https://twitter.com/du_orsi)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/du_orsi)](https://www.instagram.com/du_orsi)
